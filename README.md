@@ -4,9 +4,6 @@
 # Installations
 First, clone this repository:
 
-<!-- start:code block -->
-#### Clone this repository
-
 ```bash
 git clone https://github.com/Heyitsmepranil/Tictactoe-in-C-Text-based.git
 cd Tictactoe-in-C-Text-based
